@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "810096493533",
+    "firebase_url": "https://travelapp-3c20a.firebaseio.com",
+    "project_id": "travelapp-3c20a",
+    "storage_bucket": "travelapp-3c20a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810096493533:android:9f4a6247e8299842736c34",
+        "android_client_info": {
+          "package_name": "starwith.travelapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810096493533-qf8qgcnt54a7910qpkdgm0jjdh4mf3t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5Ar-j0EU3mBnrWMa4lRUrOSdR_2raVpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810096493533-qf8qgcnt54a7910qpkdgm0jjdh4mf3t8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
